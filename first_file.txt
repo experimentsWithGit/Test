@@ -1,2 +1,3 @@
-this is my first file
-now modified
+this is first file
+
+more thing
